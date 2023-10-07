@@ -1,0 +1,151 @@
+
+————————————————————————————————————————————————————————
+		  ~~~~~~SEAVIEW MANOR~~~~~~
+USER ID:                                 RKARA
+DATE:                                    15/11/21
+ROOMS BOOKED:                            4
+PRICE BEFORE DISCOUNT:                   200
+DISCOUNT:                                198.28
+PRICE AFTER DISCOUNT:                    1.72
+REWARDS POINTS BEFORE:                   47350
+REWARDS POINTS ADDED:                    100
+REWARDS POINTS AFTER:                    47450
+————————————————————————————————————————————————————————
+————————————————————————————————————————————————————————
+		  ~~~~~~SEAVIEW MANOR~~~~~~
+USER ID:                                 RKARA
+DATE:                                    15/11/21
+ROOMS BOOKED:                            8
+PRICE BEFORE DISCOUNT:                   400
+DISCOUNT:                                396.55
+PRICE AFTER DISCOUNT:                    3.45
+REWARDS POINTS BEFORE:                   47350
+REWARDS POINTS ADDED:                    200
+REWARDS POINTS AFTER:                    47550
+————————————————————————————————————————————————————————
+————————————————————————————————————————————————————————
+		  ~~~~~~SEAVIEW MANOR~~~~~~
+USER ID:                                 RKARA
+DATE:                                    15/11/21
+ROOMS BOOKED:                            12
+PRICE BEFORE DISCOUNT:                   600
+DISCOUNT:                                594.83
+PRICE AFTER DISCOUNT:                    5.17
+REWARDS POINTS BEFORE:                   47350
+REWARDS POINTS ADDED:                    300
+REWARDS POINTS AFTER:                    47650
+————————————————————————————————————————————————————————
+————————————————————————————————————————————————————————
+		  ~~~~~~SEAVIEW MANOR~~~~~~
+USER ID:                                 RKARA
+DATE:                                    15/11/21
+ROOMS BOOKED:                            16
+PRICE BEFORE DISCOUNT:                   800
+DISCOUNT:                                793.1
+PRICE AFTER DISCOUNT:                    6.9
+REWARDS POINTS BEFORE:                   47350
+REWARDS POINTS ADDED:                    400
+REWARDS POINTS AFTER:                    47750
+————————————————————————————————————————————————————————
+————————————————————————————————————————————————————————
+		  ~~~~~~SEAVIEW MANOR~~~~~~
+USER ID:                                 RKARA
+DATE:                                    15/11/21
+ROOMS BOOKED:                            20
+PRICE BEFORE DISCOUNT:                   1000
+DISCOUNT:                                991.38
+PRICE AFTER DISCOUNT:                    8.62
+REWARDS POINTS BEFORE:                   47350
+REWARDS POINTS ADDED:                    500
+REWARDS POINTS AFTER:                    47850
+————————————————————————————————————————————————————————
+————————————————————————————————————————————————————————
+		  ~~~~~~SEAVIEW MANOR~~~~~~
+USER ID:                                 RKARA
+DATE:                                    15/11/21
+ROOMS BOOKED:                            24
+PRICE BEFORE DISCOUNT:                   1200
+DISCOUNT:                                1189.66
+PRICE AFTER DISCOUNT:                    10.34
+REWARDS POINTS BEFORE:                   47350
+REWARDS POINTS ADDED:                    600
+REWARDS POINTS AFTER:                    47950
+————————————————————————————————————————————————————————
+————————————————————————————————————————————————————————
+		  ~~~~~~SEAVIEW MANOR~~~~~~
+USER ID:                                 RKARA
+DATE:                                    15/11/21
+ROOMS BOOKED:                            28
+PRICE BEFORE DISCOUNT:                   1400
+DISCOUNT:                                1387.93
+PRICE AFTER DISCOUNT:                    12.07
+REWARDS POINTS BEFORE:                   47350
+REWARDS POINTS ADDED:                    700
+REWARDS POINTS AFTER:                    48050
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+               ~~~~~~SEAVIEW MANOR~~~~~~
+USER ID:                                 RKARA
+DATE:                                    20/11/21
+ROOMS BOOKED:                            4
+PRICE BEFORE DISCOUNT:                   200
+DISCOUNT:                                2.0
+PRICE AFTER DISCOUNT:                    198.0
+REWARDS POINTS BEFORE:                   100
+REWARDS POINTS ADDED:                    100
+REWARDS POINTS AFTER:                    200
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+               ~~~~~~SEAVIEW MANOR~~~~~~
+USER ID:                                 RKARA
+DATE:                                    20/11/21
+ROOMS BOOKED:                            4
+PRICE BEFORE DISCOUNT:                   200
+DISCOUNT:                                3.98
+PRICE AFTER DISCOUNT:                    196.02
+REWARDS POINTS BEFORE:                   200
+REWARDS POINTS ADDED:                    100
+REWARDS POINTS AFTER:                    300
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+               ~~~~~~SEAVIEW MANOR~~~~~~
+USER ID:                                 RKARA
+DATE:                                    27/11/21
+ROOMS BOOKED:                            3
+PRICE BEFORE DISCOUNT:                   150
+DISCOUNT:                                4.46
+PRICE AFTER DISCOUNT:                    145.54
+REWARDS POINTS BEFORE:                   300
+REWARDS POINTS ADDED:                    75
+REWARDS POINTS AFTER:                    375
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+               ~~~~~~SEAVIEW MANOR~~~~~~
+USER ID:                                 RKARA
+DATE:                                    17/12/21
+ROOMS BOOKED:                            3
+PRICE BEFORE DISCOUNT:                   150
+DISCOUNT:                                4.46
+PRICE AFTER DISCOUNT:                    145.54
+REWARDS POINTS BEFORE:                   375
+REWARDS POINTS ADDED:                    75
+REWARDS POINTS AFTER:                    450
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+               ~~~~~~SEAVIEW MANOR~~~~~~
+USER ID:                                 RKARA
+DATE:                                    02/02/22
+ROOMS BOOKED:                            3
+PRICE BEFORE DISCOUNT:                   150
+DISCOUNT:                                1.5
+PRICE AFTER DISCOUNT:                    148.5
+REWARDS POINTS BEFORE:                   100
+REWARDS POINTS ADDED:                    75
+REWARDS POINTS AFTER:                    175
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+               ~~~~~~SEAVIEW MANOR~~~~~~
+USER ID:                                 RKARA
+DATE:                                    05/02/22
+ROOMS BOOKED:                            4
+PRICE BEFORE DISCOUNT:                   200
+DISCOUNT:                                2.0
+PRICE AFTER DISCOUNT:                    198.0
+REWARDS POINTS BEFORE:                   175
+REWARDS POINTS ADDED:                    100
+REWARDS POINTS AFTER:                    275
+————————————————————————————————————————————————————————
